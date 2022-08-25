@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["sample-login"],{"3e8e":function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e._self._c;return t("div",{staticClass:"x-auth-container fill-height fill-width d-flex justify-center align-center"},[t("x-authenticator",{attrs:{splash:!0,"splash-theme":"one"}})],1)},s=[],l={name:"AuthSample",methods:{},mounted(){}},i=l,c=n("2877"),o=Object(c["a"])(i,a,s,!1,null,"5f4c00e1",null);t["default"]=o.exports}}]);
+//# sourceMappingURL=sample-login.286c549a.js.map
