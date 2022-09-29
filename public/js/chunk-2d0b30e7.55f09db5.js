@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b30e7"],{"276b":function(e,n,c){"use strict";c.r(n);var o=function(){var e=this,n=e._self._c;return n("div",[e._v(" Password Recovery ")])},r=[],s={name:"XPwdRecovery"},t=s,u=c("2877"),a=Object(u["a"])(t,o,r,!1,null,"1e174db9",null);n["default"]=a.exports}}]);
-//# sourceMappingURL=chunk-2d0b30e7.55f09db5.js.map
