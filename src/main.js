@@ -23,7 +23,6 @@ app.use('/', (req, res, next) => {
 
 app.use(express.static(path.resolve('./public')));
 app.use('/api', apiRoutes);
-
 app.use('/*', goHome);
 
 function goHome(req, res) {

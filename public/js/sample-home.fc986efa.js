@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["sample-home"],{"32b6":function(e,n,l){"use strict";l.r(n);var a=function(){var e=this,n=e._self._c;return n("div",[e._v(" HOME ")])},o=[],s={name:"SampleHome"},t=s,u=l("2877"),p=Object(u["a"])(t,a,o,!1,null,null,null);n["default"]=p.exports}}]);
-//# sourceMappingURL=sample-home.fc986efa.js.map
